@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-family: "Fira Sans Condensed", sans-serif;
+}
+
+.inside {
+    background-color: #1d3557;
+    height: 100vh;
+    color: #f1faee;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.display-1 {
+    font-weight: 200;
+}
+
+h4 {
+    font-weight: lighter;
+}
+
+.btn {
+    border-radius: 0;
+    border: 3px solid #457b9d;
+    margin-top: 10px;
+  }
+  
+  .btn:hover {
+    background-color: #457b9d;
+    border-color: #457b9d;
+    color: white;
+  }
